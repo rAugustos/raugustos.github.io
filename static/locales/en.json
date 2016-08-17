@@ -1,0 +1,80 @@
+{
+  "website":{
+    "title": "Jack's blog"
+  },
+  "nav":{
+    "home": "Home",
+    "about_me": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "career": "Career",
+    "recommendation" : "Recommedantion",
+    "blog": "Blog",
+    "link": "Link"
+  },
+  "about_me":{
+    "about_me": "About Me",
+    "des": "I am fond of programming and a few cups of coffee! Founder of Matizo. Prioritizing in the projects for the delivery, quality and creativity."
+  },
+  "skills":{
+    "my_skills": "My Skills"
+  },
+  "projects":{
+      "my_projects" : "Projects",
+      "ccee" : "Online synchronization of design data and curriculum history of all employees of the company via webservice. Integration between Micropower and Protheus Portal.",
+      "cnpem" : "Automating the purchasing process technology center of CNPEM Portal . Development of the e­procurement (.net) that integrates the information in the ERP Since cleaning supplies to sincrontron components that are purchased through",
+      "sitel" : "Developing build intelligence accounting data for dissemination in the Ariba system (SAP) aimed at compliance rules of the Multinational. Project developed between 3 teams from 3 different Countries.",
+      "sigagpe" : "Creating new public management of purchasing module (SIGAGPE) in ERP that meets the complex bidding system of Brazilian law.",
+      "sigajuri" : "Rewriting legal module of the ERP First to the MVC pattern, targeting performance and usability. full conversion of screens, routines and reports.",
+      "dimep" : "Developping reports and routines to streamline the production process of DIMEP products.",
+      "cafe" : "Automating and integrating the CAFÉ Candidates Portal with the ERP allowing register, track the status and approve the candidates as employees.",
+      "nfse" : "Development and approval with the Municipalities of the NFS­e in the standard ABRASF, DFSNET and GINFES in the FIRST products , PROTHEUS and TSS."  ,
+      "nfe" : "Develop and adjust according to the technical standards and guidance manual to the taxpayer of the NF­e in the standard First , Protheus, TSS and TOTVS products.",
+      "portoseguro" : "Pilot project between DETRAN and porto seguro for adequacy of law 'Junkyard' that urges that all dismantled parts must be reported to the DETRAN on-line,."
+   },
+   "career":{
+      "marketing":"Graduation",
+      "marketing_des":"Formed in the course of Marketing:).",
+      "marketing_date":"2010",
+      "marketing_job":"Education",
+      "empresario":"Empresario Contact",
+      "empresario_des":"Customer Service Traineeship.",
+      "empresario_date":"2008",
+      "empresario_job":"Trainee",
+      "nube":"Nube",
+      "nube_des":"I conducted several group dynamics to hiring, selection of internal and external work teams as well as creating methods to expand, disseminate and increase the number of jobs and companies for the Nube.",
+      "nube_date":"2009",
+      "nube_job":"Marketing Assistant Trainee",
+      "totvs":"TOTVS",
+      "totvs_des":"I worked in various development projects in many segments and modules of TOTVS products. Check below some projects carried out in this period.",
+      "totvs_date":"2010 - 2014",
+      "totvs_job":"Development",
+      "ti":"College",
+      "ti_des":"I started the course of analysis and software development.",
+      "ti_date":"2012",
+      "ti_job":"Education",
+      "matizo":"Matizo",
+      "matizo_des":"I founded Matizo a consulting firm specializing in software development for Microsiga Protheus TOTVS and web development.",
+      "matizo_date":"2014 - Current",
+      "matizo_job":"Project manager and development",
+      "experfite":"Experfite",
+      "experfite_des":"Atuar como consultor de desenvolvimento estabelecendo cronogramas de atividades, dead lines, especificação técnica, desenvolvimento do software e entrega dos projetos.",
+      "experfite_date":"2014",
+      "experfite_job":"Consultor de desenvolvimento",
+      "prox":"Prox",
+      "prox_des":"Atuar ",
+      "prox_date":"2015",
+      "prox_job":"Coordenador e desenvolvedor de projetos."
+   },
+   "blog":{  
+      "my_blog":"My Blog - comming soon ;)"
+   },
+   "recommendation":{
+    "customer_say" : "What customers say ?",
+      "filipi_batista" : "In 2014 Raphael provided development services of some custom routines and reports for Inventory project, PCP and sales using ADVPL language. He proved an agile professional, result-oriented and extremely easy relationship. I recommend it."
+   },   
+   "link":{
+      "link":"Link",
+      "view":"views"
+   }
+}

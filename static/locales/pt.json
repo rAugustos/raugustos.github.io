@@ -1,0 +1,80 @@
+{
+   "website":{
+      "title":"Jack's blog"
+   },
+   "nav":{
+      "home":"Home",
+      "about_me":"Sobre",
+      "skills":"Habilidades",
+      "projects":"Projetos",
+      "career":"Carreira",
+      "recommendation" : "Recomendações",
+      "blog":"Blog",      
+      "link":"Link"
+   },
+   "about_me":{
+      "about_me":"Sobre mim",
+      "des":"Eu sou apaixonado por programação e algumas xícaras de café ! Fundei a Matizo e primo nos projetos pela entrega, qualidade e criatividade !"
+   },
+   "skills":{
+      "my_skills":"Minhas Habilidades"
+   },
+   "projects":{
+      "my_projects" : "Projetos",
+      "ccee" : "Projeto de sincronização online de dados e histórico curricular de todos os funcionários da empresa via webservice. Integração entre portal micropower e Protheus.",
+      "cnpem" : "Automatizar o processo de compras de centro tecnológico do CNPEM. Desenvolvido portal e-procurement (.net) que integra as informações no ERP. Desde material de limpeza até componentes do sincrontron são comprados através do portal.",
+      "sitel" : "Desenvolver inteligência de compilação de dados contábeis para divulgação no sistema Ariba (SAP) visando regras de compliance da multinacional. Projeto desenvolvido entre 3 equipes de 3 países diferentes.",
+      "sigagpe" : "Criar o novo módulo de gestão de compras públicas (SIGAGPE) no ERP que atenda ao complexo sistema licitatório da legislação brasileira.",
+      "sigajuri" : "Reescrever o módulo jurídico do ERP First para o padrão MVC visando performance e usabilidade. Conversão total de telas, rotinas e relatórios.",
+      "dimep" : "Desenvolver relatórios e rotinas para agilizar o processo de produção dos produtos DIMEP.",
+      "cafe" : "Automatizar e integrar o portal de candidatos da Café com ERP permitindo cadastrar, acompanhar o status e aprovar os candidatos como funcionários.",
+      "nfse" : "Desenvolvimento e homologação com as prefeituras das NFS-e no padrão ABRASF, DFSNET e GINFES nos produtos fisrt, Protheus e TSS."  ,
+      "nfe" : "Desenvolver e ajustar de acordo com as normas técnicas e manual de orientação ao contribuinte a NF-e padrão dos produtos first, protheus e TSS da TOTVS.",
+      "portoseguro" : "Projeto piloto entre o Dentran e a Porto Seguro para adequação da lei do 'Ferro Velho' que insta que todas as peças desmontadas devem ser informadas ao Detran de forma online."
+   },
+   "career":{
+      "marketing":"Graduação",
+      "marketing_des":"Formado no curso de Marketing :).",
+      "marketing_date":"2010",
+      "marketing_job":"Educação",
+      "empresario":"Empresario Contact",
+      "empresario_des":"Estágio na área de atendimento ao cliente.",
+      "empresario_date":"2008",
+      "empresario_job":"Estágio - Atendimento ao cliente",
+      "nube":"Nube",
+      "nube_des":"Realizei diversas dinâmicas de grupo para contratação, seleção de equipes de trabalho interno e externo bem como criação de métodos para expandir, divulgar e aumentar o número de vagas e empresas do Nube.",
+      "nube_date":"2009",
+      "nube_job":"Estágio - Assistente de Marketing",
+      "totvs":"TOTVS",
+      "totvs_des":"Atuei em vários projetos de desenvolvimento em diversos segmentos e módulos dos produtos TOTVS. Verifique abaixo alguns projetos efetuados nesse período.",
+      "totvs_date":"2010 - 2014",
+      "totvs_job":"Programdor Pleno",
+      "ti":"Faculdade",
+      "ti_des":"Inicie o curso de Análise e desenvolvimento de software.",
+      "ti_date":"2012",
+      "ti_job":"Educação",
+      "matizo":"Matizo",
+      "matizo_des":"Fundei a Matizo uma consultoria especializada em desenvolvimento de software na linha de produtos Microsiga Protheus da TOTVS bem como de desenvolvimento WEB.",
+      "matizo_date":"2014 - Atual",
+      "matizo_job":"Coordenador e desenvolvedor de projetos",
+      "experfite":"Experfite",
+      "experfite_des":"Atuar como consultor de desenvolvimento estabelecendo cronogramas de atividades, dead lines, especificação técnica, desenvolvimento do software e entrega dos projetos.",
+      "experfite_date":"2014",
+      "experfite_job":"Consultor de desenvolvimento",
+      "prox":"Prox",
+      "prox_des":"Atuar ",
+      "prox_date":"2015",
+      "prox_job":"Coordenador e desenvolvedor de projetos."
+   },
+   "blog":{  
+      "my_blog":"Blog - Em breve ;)"
+   },
+   "recommendation" : {
+      "customer_say" : "O que os clientes dizem ?",
+      "filipi_batista" : "Em 2014 o Raphael prestou serviços de desenvolvimento de algumas rotinas e relatórios personalizados para um projeto de Estoques, PCP e Faturamento em linguagem ADVPL. Se mostrou um profissional ágil, orientado ao resultado e de relacionamento extremamente fácil. Recomendo-o."
+   },
+   "link":{
+      "link":"Link",
+      "view":"views"
+   }
+}
