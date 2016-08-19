@@ -17,7 +17,7 @@
       "des":"Eu sou apaixonado por programação e algumas xícaras de café. Fundei a Matizo e primo nos projetos pela entrega, qualidade e criatividade."
    },
    "skills":{
-      "my_skills":"Minhas Habilidades"
+      "title":"Minhas Habilidades"
    },
    "projects":{
       "my_projects" : "Projetos",
@@ -33,6 +33,7 @@
       "portoseguro" : "Projeto piloto entre o Dentran e a Porto Seguro para adequação da lei do 'Ferro Velho' que insta que todas as peças desmontadas devem ser informadas ao Detran de forma online."
    },
    "career":{
+      "title": "Minha Carreira",
       "marketing":"Graduação",
       "marketing_des":"Formado no curso de Marketing :).",
       "marketing_date":"2010",
@@ -48,7 +49,7 @@
       "totvs":"TOTVS",
       "totvs_des":"Atuei em vários projetos de desenvolvimento em diversos segmentos e módulos dos produtos TOTVS. Verifique abaixo alguns projetos efetuados nesse período.",
       "totvs_date":"2010 - 2014",
-      "totvs_job":"Programdor Pleno",
+      "totvs_job":"Programador Pleno",
       "ti":"Faculdade",
       "ti_des":"Inicie o curso de Análise e desenvolvimento de software.",
       "ti_date":"2012",
@@ -70,7 +71,7 @@
       "my_blog":"Blog - Em breve."
    },
    "recommendation" : {
-      "customer_say" : "O que os clientes dizem ?",
+      "customer_say" : "O que os clientes dizem",
       "filipi_batista" : "Em 2014 o Raphael prestou serviços de desenvolvimento de algumas rotinas e relatórios personalizados para um projeto de Estoques, PCP e Faturamento em linguagem ADVPL. Se mostrou um profissional ágil, orientado ao resultado e de relacionamento extremamente fácil. Recomendo-o.",
       "luis_abeno" : "Profissional extremamente competente. Com a sua ajuda conseguimos integrar nosso sistema ERP Protheus com o nosso portal de currículos. Reduzimos custos com essa integração e nunca tivemos problemas, resultado de um excelente trabalho.",
       "adriana_saes" : "Nosso grau de satisfação foi bem elevado com o projeto de integração do Totvs Protheus com o sistema Ariba. Tivemos suporte do consultor bilíngue direto em contato com a nossa Matriz que esta situada em Nashville - NA Trabalho honesto com qualidade e preço compatível."

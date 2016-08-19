@@ -14,7 +14,7 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am fond of programming and a few cups of coffee! Founder of Matizo. Prioritizing in the projects for the delivery, quality and creativity."
+    "des": "I am fond of programming and a few cups of coffee. Founder of Matizo. Prioritizing in the projects for the delivery, quality and creativity."
   },
   "skills":{
     "my_skills": "My Skills"
@@ -33,6 +33,7 @@
       "portoseguro" : "Pilot project between DETRAN and porto seguro for adequacy of law 'Junkyard' that urges that all dismantled parts must be reported to the DETRAN on-line,."
    },
    "career":{
+      "title" : "My Career",
       "marketing":"Graduation",
       "marketing_des":"Formed in the course of Marketing:).",
       "marketing_date":"2010",
@@ -70,7 +71,7 @@
       "my_blog":"My Blog - comming soon."
    },
    "recommendation":{
-    "customer_say" : "What customers say ?",
+    "customer_say" : "What customers say",
       "filipi_batista" : "In 2014 Raphael provided development services of some custom routines and reports for Inventory project, PCP and sales using ADVPL language. He proved an agile professional, result-oriented and extremely easy relationship. I recommend it.",
       "luis_abeno" : "An extremely competent professional. With your help we managed to integrate our ERP system Protheus with our Portal of Curriculum.  With such integration we reduced costs, the result of a great job.",
       "adriana_saes" : "Our level of satisfaction was very high with the integration project of Totvs Protheus and Ariba system. We had the direct support of a bilingual consultant in contact with our world headquarters situated in Nashville - NA. Honest work,  with quality and compatible price."
