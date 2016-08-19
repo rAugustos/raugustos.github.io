@@ -67,11 +67,13 @@
       "prox_job":"Coordenador de projetos e desenvolvedor."
    },
    "blog":{  
-      "my_blog":"Blog - Em breve ;)"
+      "my_blog":"Blog - Em breve."
    },
    "recommendation" : {
       "customer_say" : "O que os clientes dizem ?",
-      "filipi_batista" : "Em 2014 o Raphael prestou serviços de desenvolvimento de algumas rotinas e relatórios personalizados para um projeto de Estoques, PCP e Faturamento em linguagem ADVPL. Se mostrou um profissional ágil, orientado ao resultado e de relacionamento extremamente fácil. Recomendo-o."
+      "filipi_batista" : "Em 2014 o Raphael prestou serviços de desenvolvimento de algumas rotinas e relatórios personalizados para um projeto de Estoques, PCP e Faturamento em linguagem ADVPL. Se mostrou um profissional ágil, orientado ao resultado e de relacionamento extremamente fácil. Recomendo-o.",
+      "luis_abeno" : "Profissional extremamente competente. Com a sua ajuda conseguimos integrar nosso sistema ERP Protheus com o nosso portal de currículos. Reduzimos custos com essa integração e nunca tivemos problemas, resultado de um excelente trabalho.",
+      "adriana_saes" : "Nosso grau de satisfação foi bem elevado com o projeto de integração do Totvs Protheus com o sistema Ariba. Tivemos suporte do consultor bilíngue direto em contato com a nossa Matriz que esta situada em Nashville - NA Trabalho honesto com qualidade e preço compatível."
    },
    "link":{
       "link":"Link",
