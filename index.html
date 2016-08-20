@@ -93,20 +93,16 @@
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right" id="i18_navbar">
-                        <li><a class="page-scroll" href="#page-top"><span data-i18n="nav.home">Home</span></a></li>
-                        <li><a class="page-scroll" href="#about_me"><span data-i18n="nav.about_me">About</span></a></li>
-                        <li><a class="page-scroll" href="#career"><span data-i18n="nav.career">Career</span></a></li>
-                        <li><a class="page-scroll" href="#skills"><span data-i18n="nav.skills">Skills</span></a></li>
-                        <li><a class="page-scroll" href="#project"><span data-i18n="nav.projects">Project</span></a></li>
-                        <li><a class="page-scroll" href="#recommendation"><span data-i18n="nav.recommendation">recommendation</span></a></li>
-                        <li><a class="page-scroll" href="#blog"><span data-i18n="nav.blog">Blog</span></a></li>
-                        <li><a class="page-scroll" href="#link"><span data-i18n="nav.link">Link</span></a></li>
-                        <li>
-                            <a class="btn btn-sm set_en"><img src="/static/img/flags/United-States.png" height="16px" width="16px"></a>
-                        </li>
-                        <li>
-                            <a class="btn btn-sm set_pt"><img src="/static/img/flags/Brazil.png" height="16px" width="16px"></a>
-                        </li>
+                        <li><a class="page-scroll" href="#page-top" id='nav_home'><span data-i18n="nav.home"></span></a></li>
+                        <li><a class="page-scroll" href="#about_me" id='nav_sobre'><span data-i18n="nav.about_me"></span></a></li>
+                        <li><a class="page-scroll" href="#career" id='nav_carreira'><span data-i18n="nav.career"></span></a></li>
+                        <li><a class="page-scroll" href="#skills" id='nav_habilidades'><span data-i18n="nav.skills"></span></a></li>
+                        <li><a class="page-scroll" href="#project" id='nav_projetos'><span data-i18n="nav.projects"></span></a></li>
+                        <li><a class="page-scroll" href="#recommendation" id='nav_recomendacao'><span data-i18n="nav.recommendation"></span></a></li>
+                        <li><a class="page-scroll" href="#blog" id='nav_blog'><span data-i18n="nav.blog"></span></a></li>
+                        <li><a class="page-scroll" href="#link" id='nav_link'><span data-i18n="nav.link"></span></a></li>
+                        <li><a class="btn btn-sm set_en" id='nav_lang_en'><img src="/static/img/flags/United-States.png" height="16px" width="16px"></a></li>
+                        <li><a class="btn btn-sm set_pt" id='nav_lang_pt'><img src="/static/img/flags/Brazil.png" height="16px" width="16px"></a></li>
                     </ul>
                 </div>
             </div>
@@ -836,6 +832,9 @@
                 // $('.set_en').removeClass('active');
             });
         });        
+        $('#i18_navbar li a').on('click', function(){            
+               ga('send', 'event', 'navbar','clicked', this.id);
+        });
     });
 </script>
     
